@@ -1,0 +1,6 @@
+@inproceedings{dasIDTransformer,
+    title = {IDTransformer: Transformer for Intrinsic Image Decomposition}, 
+    author = {Partha Das and Maxime Gevers and Sezer Karaoglu and Theo Gevers},
+              booktitle = {New Ideas in Vision Transformers (ICCV)},
+    year = {2023}
+}
