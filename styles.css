@@ -173,6 +173,25 @@ figure {
   font-weight: 600;
 }
 
+.paper-btn-soon {
+  position: relative;
+  text-align: center;
+
+  display: inline-block;
+  margin: 8px;
+  padding: 8px 8px;
+
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+
+  background-color: #92b0c6;
+  color: #494949 !important;
+  font-size: 20px;
+  width: 100px;
+  font-weight: 600;
+}
+
 .supp-btn {
   position: relative;
   text-align: center;
